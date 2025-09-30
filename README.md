@@ -1,5 +1,7 @@
 # woocommerce-mdl-currency-converter
 
+
+
 === WooCommerce MDL Currency Converter ===
 Contributors: yourname
 Tags: woocommerce, currency, converter, MDL, EUR, exchange rate
